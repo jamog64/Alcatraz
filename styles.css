@@ -4,7 +4,7 @@ h1 {
 }
 
 body {
-  background-color: orange;
+  background-color: blue;
   /*name*/
 }
 
@@ -15,7 +15,7 @@ p {
 
 .fancy {
   color: white;
-  font-family: 'Gloria Hallelujah', cursive;
+  font-family: 'Comic Sans'cursive;
 }
 
 #circle {
