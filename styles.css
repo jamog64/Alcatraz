@@ -1,15 +1,16 @@
 h1 {
-  color: rgb(100, 50, 255);
+  color: purple;
   /*rgb 0-255 value*/
 }
 
-body { color: purple }
-body { background-color: blue }
+body  {
+
+  background-color: blue
   /*name*/
 }
 
 p {
-  color: #000000;
+  color: black;
   /*hex*/
 }
 
