@@ -1,22 +1,21 @@
 h1 {
-  color: purple;
+  color: rgb(100, 100, 255);
   /*rgb 0-255 value*/
 }
 
-body  {
-
-  background-color: blue
+body {
+  background-color: orange;
   /*name*/
 }
 
 p {
-  color: black;
+  color: #000000;
   /*hex*/
 }
 
 .fancy {
   color: white;
-  font-family: 'Comic Sans'cursive;
+  font-family: 'Gloria Hallelujah', cursive;
 }
 
 #circle {
